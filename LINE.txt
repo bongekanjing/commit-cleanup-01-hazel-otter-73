@@ -1,0 +1,1 @@
+fix: memory leak traced to the cleanup routine, so I removed the cleanup routine
